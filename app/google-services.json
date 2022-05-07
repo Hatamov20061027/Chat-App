@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "794439046835",
+    "project_id": "simple-chat-app-hatamov",
+    "storage_bucket": "simple-chat-app-hatamov.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794439046835:android:dd4f9a7964822cc9f7c2c6",
+        "android_client_info": {
+          "package_name": "com.example.chatapp10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794439046835-o00eacst05m9h8pf9n6qlvkljfoal69r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtEUD_WG6bNHW45wXetQBJbwzCszhUWWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794439046835-o00eacst05m9h8pf9n6qlvkljfoal69r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

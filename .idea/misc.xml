@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Administrator/AppData/Local/ChatApp10/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.23148148148148148" />
+        <entry key="..\:/Users/Administrator/AppData/Local/ChatApp10/app/src/main/res/drawable/backraund_style_01.xml" value="0.28489583333333335" />
+        <entry key="..\:/Users/Administrator/AppData/Local/ChatApp10/app/src/main/res/drawable/edit_text_background.xml" value="0.2351851851851852" />
+        <entry key="..\:/Users/Administrator/AppData/Local/ChatApp10/app/src/main/res/drawable/edit_text_in_linear.xml" value="0.23148148148148148" />
+        <entry key="..\:/Users/Administrator/AppData/Local/ChatApp10/app/src/main/res/drawable/fon_profile_user.xml" value="0.2351851851851852" />
+        <entry key="..\:/Users/Administrator/AppData/Local/ChatApp10/app/src/main/res/drawable/ic_back.xml" value="0.1" />
+        <entry key="..\:/Users/Administrator/AppData/Local/ChatApp10/app/src/main/res/drawable/ic_baseline_alternate_email_24.xml" value="0.28489583333333335" />
+        <entry key="..\:/Users/Administrator/AppData/Local/ChatApp10/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.2890625" />
+        <entry key="..\:/Users/Administrator/AppData/Local/ChatApp10/app/src/main/res/drawable/ic_baseline_sms_24.xml" value="0.28489583333333335" />
+        <entry key="..\:/Users/Administrator/AppData/Local/ChatApp10/app/src/main/res/drawable/ic_launcher_background.xml" value="0.23148148148148148" />
+        <entry key="..\:/Users/Administrator/AppData/Local/ChatApp10/app/src/main/res/drawable/ic_send.xml" value="0.2890625" />
+        <entry key="..\:/Users/Administrator/AppData/Local/ChatApp10/app/src/main/res/drawable/person_white.xml" value="0.23148148148148148" />
+        <entry key="..\:/Users/Administrator/AppData/Local/ChatApp10/app/src/main/res/layout/activity_main.xml" value="0.26875" />
+        <entry key="..\:/Users/Administrator/AppData/Local/ChatApp10/app/src/main/res/layout/activity_messeging.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/AppData/Local/ChatApp10/app/src/main/res/layout/activity_otpverification.xml" value="0.26875" />
+        <entry key="..\:/Users/Administrator/AppData/Local/ChatApp10/app/src/main/res/layout/activity_sign_up.xml" value="0.26875" />
+        <entry key="..\:/Users/Administrator/AppData/Local/ChatApp10/app/src/main/res/layout/activity_verification.xml" value="0.26875" />
+        <entry key="..\:/Users/Administrator/AppData/Local/ChatApp10/app/src/main/res/layout/item_from.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Administrator/AppData/Local/ChatApp10/app/src/main/res/layout/item_to.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Administrator/AppData/Local/ChatApp10/app/src/main/res/layout/item_user.xml" value="0.24210526315789474" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
